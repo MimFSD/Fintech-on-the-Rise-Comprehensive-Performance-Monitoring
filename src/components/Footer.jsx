@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="lg:w-[1180px] lg:mx-auto ">
                     <div className="lg:flex">
                         <div className="lg:w-[454px] w-full">
-                            
+
                             <h4 className='lg:text-[36px] text-[24px] lg:text-start text-center text-[#000000] leading-[136%] font-natsreguler '>Experience remarkable WordPress products with a new level of power, beauty, and human-centered designs.</h4>
                         </div>
 
@@ -23,6 +23,7 @@ const Footer = () => {
                                 </div>
                                 <div className="">
                                     <li className='text-[20px] lg:w-[84px] text-[#115CD9] pt-[16px] font-neue'><a href="#inedx">About Us</a></li>
+                                    {/* foooter design */}
                                     <li className='text-[20px] text-[#115CD9] pt-[16px] font-neue'><a href="#portfolio">Portfolio</a></li>
                                     <li className='text-[20px] text-[#115CD9] pt-[16px] font-neue'><a href="">News</a></li>
                                     <li className='text-[20px] text-[#115CD9] pt-[16px] font-neue'><a href="">Stories</a></li>
