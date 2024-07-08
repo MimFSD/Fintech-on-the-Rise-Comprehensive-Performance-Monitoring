@@ -45,6 +45,7 @@ const Banner = () => {
         <div className="flex justify-center  absolute lg:top-0 top-0 left-0 lg:left-[-20px] lg:z-10 ">
         <div className="lg:pt-[80px] pt-[180px]">
             <h1 className='lg:text-[79px] text-[30px] lg:text-start text-center  text-[#fff] font-natsreguler'>The WPPOOL Index</h1>
+            
             <p className='lg:text-[21px] text-[16px] lg:text-start text-center text-[#fff] font-messinabook'>Monitor the performance of emerging, publicly traded, financial technology companies</p>
         </div>
         </div>
