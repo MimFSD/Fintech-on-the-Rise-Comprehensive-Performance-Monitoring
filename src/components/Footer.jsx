@@ -10,6 +10,7 @@ const Footer = () => {
                 <div className="lg:w-[1180px] lg:mx-auto ">
                     <div className="lg:flex">
                         <div className="lg:w-[454px] w-full">
+                            
                             <h4 className='lg:text-[36px] text-[24px] lg:text-start text-center text-[#000000] leading-[136%] font-natsreguler '>Experience remarkable WordPress products with a new level of power, beauty, and human-centered designs.</h4>
                         </div>
 
