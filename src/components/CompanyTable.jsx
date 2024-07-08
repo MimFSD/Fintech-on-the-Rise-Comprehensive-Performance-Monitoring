@@ -26,6 +26,7 @@ const CompanyTable = () => {
                 </div>
             </div>
         <div class="relative overflow-x-auto shadow-md rounded-[18px]">
+
             <table class="w-[95%] mx-auto text-sm text-left rtl:text-right text-[#000000]  dark:text-gray-400 mb-[20px]">
                 <thead class="text-xs bg-[#FFFFFF] dark:bg-gray-700 dark:text-gray-400">
                     <tr>
@@ -101,6 +102,7 @@ const CompanyTable = () => {
 
                     <tr class="odd:bg-[#FFFFFF]  odd:dark:bg-gray-900 even:bg-gray-50 ">
                         <th scope="row" class="px-6 py-2 font-natsreguler text-gray-900 whitespace-nowrap dark:text-white">
+                            
                         Affirm
                         </th>
                         <td class="px-6 py-2 font-natsreguler">
