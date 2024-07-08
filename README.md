@@ -2,9 +2,6 @@ Welcome to WPPool Fintech Performance Hub, your premier destination for comprehe
 
 ## Features :
 
-Here are some key features you can highlight for your WPPool Fintech Performance Hub website:
-
----
 
 **Features of WPPool Fintech Performance Hub**
 
